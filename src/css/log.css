@@ -2,6 +2,9 @@ body {
   outline: 0;
   margin: 0;
 }
+html,body{
+  background-color: black;
+}
 #logh1 {
   font-weight: bolder;
   color: red;
