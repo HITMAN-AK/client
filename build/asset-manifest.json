@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19ebc765.css",
+    "main.js": "/static/js/main.eafbbe1b.js",
+    "static/media/PUBG.jpg": "/static/media/PUBG.088e3668c8ab9a1ad651.jpg",
+    "static/media/ff.jpg": "/static/media/ff.86683e7aba8b76b95684.jpg",
+    "static/media/404.jpg": "/static/media/404.2a202e3d1d09de9bb896.jpg",
+    "static/media/freefire.jpg": "/static/media/freefire.155590a1677488eb2f9c.jpg",
+    "static/media/bgmi.jpg": "/static/media/bgmi.0e974d8aa76a537fcaa3.jpg",
+    "static/media/note.jpg": "/static/media/note.bf72e47360c7915527d1.jpg",
+    "static/media/menu.png": "/static/media/menu.74acaadd1e5a9cb0d104.png",
+    "index.html": "/index.html",
+    "main.19ebc765.css.map": "/static/css/main.19ebc765.css.map",
+    "main.eafbbe1b.js.map": "/static/js/main.eafbbe1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ebc765.css",
+    "static/js/main.eafbbe1b.js"
+  ]
+}
